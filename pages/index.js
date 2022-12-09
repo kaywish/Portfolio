@@ -16,13 +16,13 @@ export default function Home() {
 
       <main className="bg-yellow-50 px10">
         <section className="">
-      <nav className="py-10 mb-12 flex justify-end">
+      <nav className="py-10  flex justify-end">
         
         <ul className="flex  ">
           <li>
         
           </li>
-          <li><a className="bg-gradient-to-r from-green-900 to-green-600 text-white px-4 py-2 rounded-md ml-8"href="#">Resume</a></li>
+          <li><a className="bg-gradient-to-r from-green-900 to-green-600 text-white px-4 py-2 rounded-md ml-8"href="https://docs.google.com/document/d/e/2PACX-1vSsoacTWLYkitAGkXQd48sk1piJx9fr8OkVHXqxVFj95_zHrdRCpFae3YzFQ1CUt5afXTMti5TgARDX/pub">Resume</a></li>
         </ul>
       </nav>
       <div className="text-center p-10">
